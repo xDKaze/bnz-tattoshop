@@ -4,4 +4,4 @@
 2. Insert the sql to your database
 3. ensure bnz-tattoshop to your cfg
 
-and try to start your server.
+and try to start your servers.
